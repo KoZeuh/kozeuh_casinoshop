@@ -1,4 +1,3 @@
-# kozeuh_casinoshop
 <div align='center'>Shop in RageUI at the Casino to buy scratch tickets. / Shop en RageUI au Casino permettant d'acheter des tickets grattables.</div>
 
 <h2 align='center'>✔️ v0.1 No Release - Private - Only an overview </h2>
